@@ -9,7 +9,7 @@ I am 26, have strong mathematical background and 5+ years of IT development expe
 Special concentration in Ruby language. Skilled in all phases of the software development lifecycle.
 
 ## /tech\_stack
-{:.text-center}
+{: .text-center }
 
 | Category   | Key technologies |
 |------------|------------------|
@@ -20,3 +20,15 @@ Special concentration in Ruby language. Skilled in all phases of the software de
 | Deployment | Unix-like servers, Capistrano, Heroku, Docker, Ansible |
 | Tools      | MacBook, vim, tmux, git, rspec, Google Chrome |
 | Practices  | TDD and clean, readable code |
+
+## /projects
+{: .text-center }
+
+* Itransition
+* Disney
+* Corevist
+
+## /open\_source
+{: .text-center }
+
+* GitLab
