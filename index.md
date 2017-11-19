@@ -24,11 +24,34 @@ Special concentration in Ruby language. Skilled in all phases of the software de
 ## /projects
 {: .text-center }
 
-* Itransition
-* Disney
-* Corevist
+<div class="projects">
+  <div class="project">
+    <a target="_blank" href="https://www.corevist.com/">
+      <img alt="Corevist" src="/assets/images/projects/logo_corevist">
+    </a>
+    <span class="position">Senior Backend Engineer</span>
+  </div>
+  <div class="project">
+    <a target="_blank" href="http://www.disneyinternational.com/">
+      <img alt="Disney" src="/assets/images/projects/logo_disney">
+    </a>
+    <span class="position">Senior RoR Engineer</span>
+  </div>
+  <div class="project">
+    <a target="_blank" href="https://www.itransition.com/">
+      <img alt="Itransition" src="/assets/images/projects/logo_itransition">
+    </a>
+    <span class="position">Ruby on Rails Developer</span>
+  </div>
+</div>
 
 ## /open\_source
 {: .text-center }
 
-* GitLab
+<div class="projects">
+  <div class="project single">
+    <a target="_blank" href="https://gitlab.com/">
+      <img alt="GitLab" src="/assets/images/projects/logo_gitlab">
+    </a>
+  </div>
+</div>

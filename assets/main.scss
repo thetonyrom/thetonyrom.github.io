@@ -4,6 +4,14 @@
 
 @import "minima";
 
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 #avatar {
   display: block;
   margin-left: auto;
@@ -11,6 +19,62 @@
   border-radius: 50%;
 }
 
+p {
+  text-align: justify;
+}
+
 .text-center {
   text-align: center;
+}
+
+.projects {
+  margin: 15px 0;
+  padding-bottom: 15px;
+
+  .project {
+    width: 100%;
+    &.single {
+      float: none;
+      margin: auto;
+    }
+
+    img {
+      display: block;
+      width: 50%;
+      margin: auto;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      &:hover {
+        box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.5);
+      }
+    }
+
+    .position {
+      display: block;
+      text-align: center;
+    }
+  }
+}
+
+.projects::before,
+.projects::after {
+  display: table;
+  content: " ";
+  clear: both;
+}
+
+
+@media screen and (min-width: 768px) {
+  .projects {
+
+    .project {
+      float: left;
+      width: 33%;
+      height: 210px;
+      padding: 7px;
+
+      img {
+        width: 90%;
+      }
+    }
+  }
 }
