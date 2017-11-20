@@ -1,0 +1,24 @@
+/**
+ * Custom fonts
+ */
+
+@font-face {
+  font-family: 'Attractive-Regular';
+  src: url('fonts/attractive_regular.eot'); /* IE9 Compat Modes */
+  src: url('fonts/attractive_regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/attractive_regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/attractive_regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/attractive_regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Attractive-Italic';
+  src: url('fonts/attractive_italic.eot'); /* IE9 Compat Modes */
+  src: url('fonts/attractive_italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/attractive_italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/attractive_italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/attractive_italic.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+}
+
