@@ -9,7 +9,6 @@ I am 26, have strong mathematical background and 5+ years of IT development expe
 Special concentration in Ruby language. Skilled in all phases of the software development lifecycle.
 
 ## /tech\_stack
-{: .text-center }
 
 | Category   | Key technologies |
 |------------|------------------|
@@ -22,7 +21,6 @@ Special concentration in Ruby language. Skilled in all phases of the software de
 | Practices  | TDD and clean, readable code |
 
 ## /projects
-{: .text-center }
 
 <div class="projects">
   <div class="project">
@@ -46,7 +44,6 @@ Special concentration in Ruby language. Skilled in all phases of the software de
 </div>
 
 ## /open\_source
-{: .text-center }
 
 <div class="projects">
   <div class="project single">

@@ -4,12 +4,11 @@
 
 $base-font-family-regular: "Attractive-Regular", Helvetica, Arial, sans-serif !default;
 $base-font-family-italic: "Attractive-Italic", Helvetica, Arial, sans-serif !default;
-$base-font-size:   16px !default;
+$base-font-size:   100% !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     2em !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -22,10 +21,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    45em !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm:          30em !default;
+$on-laptop:        45em !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -41,7 +40,7 @@ $on-laptop:        800px !default;
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
+  font-size: 1em * $ratio;
 }
 
 // Import partials.
