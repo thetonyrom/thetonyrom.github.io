@@ -99,16 +99,11 @@ a {
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: $grey-color;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
   }
 }
 
@@ -202,6 +197,7 @@ pre {
   }
 }
 
+.contact-list,
 .social-media-list {
   .icon {
     padding-right: 5px;
