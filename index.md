@@ -4,8 +4,8 @@ layout: page
 
 ![avatar](/assets/images/ava_crop.jpeg){: #avatar }
 
-Hi! My name is Tony and I am an awesome full stack web developer.
-I am 26, have strong mathematical background and 5+ years of IT development experience.
+Hi! My name is Tony and I am an experienced full stack web developer.
+I am 26, have a strong mathematical background and 5+ years in the field.
 Special concentration in Ruby language. Skilled in all phases of the software development lifecycle.
 
 ## /tech\_stack
