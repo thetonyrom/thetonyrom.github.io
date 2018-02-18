@@ -46,9 +46,22 @@ Special concentration in Ruby language. Skilled in all phases of the software de
 ## /open\_source
 
 <div class="projects">
-  <div class="project single">
+  <div class="project">
+    <a target="_blank" href="https://github.com/thetonyrom/livermore">
+      <img alt="Livermore" src="/assets/images/projects/logo_livermore">
+    </a>
+    <span class="position">Author</span>
+  </div>
+  <div class="project">
+    <a target="_blank" href="https://rubygems.org/gems/coin_falcon">
+      <img alt="CoinFalcon" src="/assets/images/projects/logo_coinfalcon">
+    </a>
+    <span class="position">Author</span>
+  </div>
+  <div class="project">
     <a target="_blank" href="https://gitlab.com/">
       <img alt="GitLab" src="/assets/images/projects/logo_gitlab">
     </a>
+    <span class="position">Contributor</span>
   </div>
 </div>
