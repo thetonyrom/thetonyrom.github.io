@@ -4,20 +4,20 @@ layout: page
 
 ![avatar](/assets/images/ava_crop.jpeg){: #avatar }
 
-Hi! My name is Tony and I am an experienced full stack web developer.
-I am 26, have a strong mathematical background and 5+ years in the field.
-Special concentration in Ruby language. Skilled in all phases of the software development lifecycle.
+Hey! My name is Tony and I am a seasoned full stack web developer.
+I am 27, have a strong mathematical background and 7+ years in the field.
+Special concentration in Ruby language.
 
 ## /tech\_stack
 
 | Category   | Key technologies |
 |------------|------------------|
-| Languages  | Assembler, C/C++, Objective-C, Matlab, Java, JavaScript, Ruby, Crystal |
-| Back-end   | Sinatra, Ruby on Rails, Node.js |
-| Front-end  | CSS3, HTML5, ES6, jQuery, Backbone, React, Express, Koa |
+| Languages  | Assembler, C, C++, Fortran, Matlab, Java, Objective-C, JavaScript, Ruby, Python, Go, Crystal |
+| Backend    | Sinatra, Ruby on Rails, Node.js, Apache, Nginx, Unicorn, Puma |
+| Frontend   | CSS3, HTML5, ES6, jQuery, Backbone, React, Express, Koa |
 | Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
-| Deployment | Unix-like servers, Capistrano, Heroku, Docker, Ansible |
-| Tools      | MacBook, vim, tmux, git, rspec, Google Chrome |
+| DevOps     | Unix-like servers, Capistrano, Heroku, Docker, Ansible, AWS |
+| Tools      | MacBook, iTerm, Vim, tmux, Git, RSpec, Google Chrome |
 | Practices  | TDD and clean, readable code |
 
 ## /projects
@@ -47,12 +47,6 @@ Special concentration in Ruby language. Skilled in all phases of the software de
 
 <div class="projects">
   <div class="project">
-    <a target="_blank" href="https://github.com/thetonyrom/livermore">
-      <img alt="Livermore" src="/assets/images/projects/logo_livermore">
-    </a>
-    <span class="position">Author</span>
-  </div>
-  <div class="project">
     <a target="_blank" href="https://rubygems.org/gems/coin_falcon">
       <img alt="CoinFalcon" src="/assets/images/projects/logo_coinfalcon">
     </a>
@@ -63,5 +57,11 @@ Special concentration in Ruby language. Skilled in all phases of the software de
       <img alt="GitLab" src="/assets/images/projects/logo_gitlab">
     </a>
     <span class="position">Contributor</span>
+  </div>
+  <div class="project">
+    <a target="_blank" href="https://github.com/thetonyrom/livermore">
+      <img alt="Livermore" src="/assets/images/projects/logo_livermore">
+    </a>
+    <span class="position">Author</span>
   </div>
 </div>
