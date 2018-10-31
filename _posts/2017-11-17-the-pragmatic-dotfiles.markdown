@@ -2,7 +2,7 @@
 layout: post
 title:  "The Pragmatic Dotfiles"
 date:   2017-11-17 17:11:17 +0300
-categories: dotfiles
+categories: [tech, unix, dotfiles]
 ---
 
 Hi there! My name is Tony and I am going to show you the pragmatic way to manage *dotfiles*.

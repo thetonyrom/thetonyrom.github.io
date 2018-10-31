@@ -2,7 +2,7 @@
 layout: post
 title:  "VIM in a week!"
 date:   2017-11-11 00:33:11 +0300
-categories: vim
+categories: [tech, productivity, vim]
 ---
 
 Hi there! My name is Tony and I am going to show you the way how to conquer VIM in a week!
