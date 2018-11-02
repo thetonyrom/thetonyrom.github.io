@@ -24,10 +24,10 @@ Special concentration in Ruby language.
 
 <div class="projects">
   <div class="project">
-    <a target="_blank" href="https://www.corevist.com/">
-      <img alt="Corevist" src="/assets/images/projects/logo_corevist">
+    <a target="_blank" href="https://www.itransition.com/">
+      <img alt="Itransition" src="/assets/images/projects/logo_itransition">
     </a>
-    <span class="position">Senior Backend Engineer</span>
+    <span class="position">Ruby on Rails Developer</span>
   </div>
   <div class="project">
     <a target="_blank" href="http://www.disneyinternational.com/">
@@ -36,10 +36,17 @@ Special concentration in Ruby language.
     <span class="position">Senior RoR Engineer</span>
   </div>
   <div class="project">
-    <a target="_blank" href="https://www.itransition.com/">
-      <img alt="Itransition" src="/assets/images/projects/logo_itransition">
+    <a target="_blank" href="https://www.corevist.com/">
+      <img alt="Corevist" src="/assets/images/projects/logo_corevist">
     </a>
-    <span class="position">Ruby on Rails Developer</span>
+    <span class="position">Senior Backend Engineer</span>
+  </div>
+  <div class="project"><!--#empty_project--></div>
+  <div class="project">
+    <a target="_blank" href="https://coinfalcon.com/">
+      <img alt="CoinFalcon" src="/assets/images/projects/logo_coinfalcon">
+    </a>
+    <span class="position">Technical Architect</span>
   </div>
 </div>
 
@@ -48,7 +55,7 @@ Special concentration in Ruby language.
 <div class="projects">
   <div class="project">
     <a target="_blank" href="https://rubygems.org/gems/coin_falcon">
-      <img alt="CoinFalcon" src="/assets/images/projects/logo_coinfalcon">
+      <img alt="Ruby Gem" src="/assets/images/projects/logo_ruby_gem">
     </a>
     <span class="position">Author</span>
   </div>
@@ -58,6 +65,13 @@ Special concentration in Ruby language.
     </a>
     <span class="position">Contributor</span>
   </div>
+  <div class="project">
+    <a target="_blank" href="https://pypi.org/project/coin-falcon/">
+      <img alt="Python Package" src="/assets/images/projects/logo_python_package">
+    </a>
+    <span class="position">Author</span>
+  </div>
+  <div class="project"><!--#empty_project--></div>
   <div class="project">
     <a target="_blank" href="https://github.com/thetonyrom/livermore">
       <img alt="Livermore" src="/assets/images/projects/logo_livermore">
