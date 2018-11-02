@@ -6,7 +6,7 @@ layout: page
 
 Hey! My name is Tony and I am a seasoned full stack web developer.
 I am 27, have a strong mathematical background and 7+ years in the field.
-Special concentration in Ruby language.
+Special concentration in Ruby language and backend.
 
 ## /tech\_stack
 
