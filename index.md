@@ -4,9 +4,23 @@ layout: page
 
 ![avatar](/assets/images/ava_crop.jpeg){: #avatar }
 
-Hey! My name is Tony and I am a seasoned full stack web developer.
-I am 27, have a strong mathematical background and 7+ years in the field.
-Special concentration in Ruby language and backend.
+#### Hi, my name is Tony and I am a seasoned Software Engineer.
+
+## /in_brief
+
+I started working in a large outsourcing company, then worked remotely in several product companies and startups,
+following the best practices and agile methodologies.
+Even though my primary focus has become a backend, infrastructure, and security I am interested in React and Vue.
+
+I have a master's degree in applied mathematics and computer science and 7+ years of experience in web development.
+Significant professional experience with Ruby and Ruby on Rails.
+
+I have been published in scientific journals and one of my major achievements is that
+I brought mathematical novelty and defended my thesis on DNA sequencing using nanopores.
+
+I am fond of chess, powerlifting, Russian pyramid, but programming is my passion.
+
+If you are interested in cooperation, please email me, <a href="mailto:thetonyrom@gmail.com">thetonyrom@gmail.com</a>.
 
 ## /tech\_stack
 
@@ -14,11 +28,11 @@ Special concentration in Ruby language and backend.
 |------------|------------------|
 | Languages  | Assembler, C, C++, Fortran, Matlab, Java, Objective-C, JavaScript, Ruby, Python, Go, Crystal |
 | Backend    | Sinatra, Ruby on Rails, Node.js, Apache, Nginx, Unicorn, Puma |
-| Frontend   | CSS3, HTML5, ES6, jQuery, Backbone, React, Express, Koa |
+| Frontend   | CSS3, HTML5, ES6, jQuery, Backbone, React, Express, Koa, Vue |
 | Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
 | DevOps     | Unix-like servers, Capistrano, Heroku, Docker, Ansible, AWS |
-| Tools      | MacBook, iTerm, Vim, tmux, Git, RSpec, Google Chrome |
-| Practices  | TDD and clean, readable code |
+| Tools      | ~~MacBook Pro~~ ThinkPad X1, Arch, Vim, Mutt, tmux, qutebrowser |
+| Practices  | Agile and clean readable well-covered code |
 
 ## /projects
 
@@ -68,13 +82,6 @@ Special concentration in Ruby language and backend.
   <div class="project">
     <a target="_blank" href="https://pypi.org/project/coin-falcon/">
       <img alt="Python Package" src="/assets/images/projects/logo_python_package">
-    </a>
-    <span class="position">Author</span>
-  </div>
-  <div class="project"><!--#empty_project--></div>
-  <div class="project">
-    <a target="_blank" href="https://github.com/thetonyrom/livermore">
-      <img alt="Livermore" src="/assets/images/projects/logo_livermore">
     </a>
     <span class="position">Author</span>
   </div>
